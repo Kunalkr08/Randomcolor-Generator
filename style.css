@@ -1,0 +1,36 @@
+/* #M{
+  display: block;
+  text-align: center;
+  font-size: 50px;
+  background-color: rgb(245, 248, 248);
+} */
+#P{
+  text-align: center;
+  background-color: rgb(214, 207, 207);
+  height: 30px;
+  width: 80px;
+  cursor: pointer;
+  border-radius: 109px;
+  margin-top: 580px;
+  margin-left: 30px;
+  
+}
+.Container{
+  position: absolute;
+  width: 30%;
+  height: 450px;
+  min-width: 720px;
+  margin: 10px 10px 10px 10px;
+  transform: translate(-50%,-50%);
+  top: 50%;
+  left: 50%;
+  background-color: #0999f1;
+  padding: 50px 50px;
+  border-radius: 10px;
+  display: grid;
+  justify-items: center;
+  font-family: 'Poppins',sans-serif;
+}
+#M{
+  text-align: center;
+}
